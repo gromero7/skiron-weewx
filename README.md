@@ -20,6 +20,8 @@ Inside weewx.conf you will see now the next lines:
   cloud_id = replace_me
 ```
 
+Replace the "replace_me" texts with your cloud_key and cloud_id from skiron website, and set enabled to true.
+
 2. Restart weewx service:
 ```
 sudo service weewx restart
