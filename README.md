@@ -2,7 +2,7 @@
 ## This website is already in development
 Skiron is a meteorological website and social network formed by users that post its observations in it. 
 
-This is an extension in order to upload weather station data to skiron website.
+This is an extension in order to upload weather station data to skiron website using Weewx software.
 
 ### How to install
 
