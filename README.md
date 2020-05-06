@@ -1,8 +1,8 @@
 # skiron-weewx
 ## This website is still under development
-Skiron is a meteorological website and social network formed by users that post its observations in it. 
+Skiron is a meteorological software prepared for Riberenc website. 
 
-This is an extension in order to upload weather station data to skiron website using Weewx software.
+This is an extension in order to upload weather station data to Riberenc website using Weewx software.
 
 ### How to install
 
